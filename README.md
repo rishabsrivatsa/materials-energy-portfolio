@@ -7,7 +7,7 @@ Welcome to my personal project portfolio in **Materials Engineering**, with a fo
 
 - Battery Tech & Energy Systems  
 - Sustainability & Lifecycle Assessment (LCA)  
-- ⚛Materials Characterization (XRD, FTIR)  
+- Materials Characterization (XRD, FTIR)  
 - Machine Learning for Materials Property Prediction  
 - Composites & Thermal Simulation
 
