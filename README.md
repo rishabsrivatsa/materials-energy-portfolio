@@ -15,18 +15,18 @@ These projects are designed to demonstrate job-ready skills for roles in R&D, su
 
 ---
 
-## 📁 Projects
+## Projects
 
-### 1️LCA: Lithium vs Sodium-ion Batteries  
+### LCA: Lithium vs Sodium-ion Batteries  
 > A comparative life cycle assessment (LCA) of lithium-ion and sodium-ion batteries using OpenLCA.  
 **Tools**: OpenLCA, Excel  
 **Skills**: Sustainability, critical materials, lifecycle impact  
 **Deliverables**: Report PDF, impact graphs, OpenLCA model files  
-🔗 [`/projects/LCA-batteries`](projects/LCA-batteries)
+[`/projects/LCA-batteries`](projects/LCA-batteries)
 
 ---
-
-### 2️FTIR & XRD Analysis of Coating Materials  
+ 
+### FTIR & XRD Analysis of Coating Materials  
 > Analysis of real FTIR/XRD datasets to extract peak data, estimate bandgap/lattice parameters, and visualize spectra.  
 **Tools**: Python (`scipy`, `matplotlib`), ImageJ/Origin  
 **Skills**: Spectroscopy, crystallography, data plotting  
@@ -35,28 +35,28 @@ These projects are designed to demonstrate job-ready skills for roles in R&D, su
 
 ---
 
-### 3️ML-Based Bandgap Prediction from Materials Dataset  
+### ML-Based Bandgap Prediction from Materials Dataset  
 > Trained a machine learning model to predict bandgaps using material composition features from public databases.  
 **Tools**: Python (`pandas`, `scikit-learn`, `matplotlib`)  
 **Skills**: Data cleaning, regression, materials informatics  
 **Deliverables**: Notebook, dataset, model evaluation graphs  
-🔗 [`/projects/ML-bandgap`](projects/ML-bandgap)
+[`/projects/ML-bandgap`](projects/ML-bandgap)
 
 ---
 
-### 4️Thermal Simulation of Battery Cells (Upcoming)  
+### Thermal Simulation of Battery Cells (Upcoming)  
 > Simulating temperature distribution in battery cells under charging/discharging conditions using COMSOL/DWSIM.  
 **Tools**: COMSOL, DWSIM  
 **Skills**: Heat transfer, thermal design, battery safety  
-🛠️ In Progress
+In Progress
 
 ---
 
-### 5️Circular Economy Assessment: Rare Earths in Australia (Upcoming)  
+### Circular Economy Assessment: Rare Earths in Australia (Upcoming)  
 > Evaluating the environmental footprint and economic viability of rare earth element (REE) mining in Australia.  
 **Tools**: OpenLCA, public mining data  
 **Skills**: LCA, circular economy, mining policy  
-🛠️ In Progress
+In Progress
 
 ---
 
